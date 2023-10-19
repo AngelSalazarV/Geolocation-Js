@@ -1,0 +1,19 @@
+
+#theme{
+    position: relative;
+    width: 6%;
+}
+
+
+.info-and-country{
+    display: flex;
+    gap: 10px;
+}
+#results{
+    width: 50%;
+}
+.info-and-country #map{
+    width: 50%;
+    height: 34rem;
+    border-radius: 6px;
+}
